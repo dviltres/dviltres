@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola, mi nombre es Damian Viltres Ramírez 👋
+
+#### Soy ingeniero de software profesional desde hace más de 10 años.
+
+##Tecnologías:
+![Android](https://img.shields.io/badge/Android-3DDC84??style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
 <!--
 **dviltres/dviltres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
